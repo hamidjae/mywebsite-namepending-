@@ -10,9 +10,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 - [X] Proper use of Markdown
 - [X] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [X] Description of key features
+- [X] Description of how you will use each technology
+- [X] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -22,31 +22,26 @@ Have you ever wondered who the most quick-witted person is in your friend group?
 
 ![Design image](images/startupimage.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
-
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Secure login over HTTPS.
+- The capability to play with 6 other unique players.
+- Once the game concludes, an option to press a "Narrate!" button which will play Text-to-Speech for the end user.
+- Games are persistently stored.
+- A leaderboard to show the longest game, and who played in it.
+- The prompts written by players displayed in real-time.
+- A scrollbar for the story so far
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Five HTML pages: Login, How to Play, About, the game being played, and the leaderboard. I may cut this down if some pages become redundant, such as folding the How to Play page unto About.
+- **CSS** - The aesthetics of the pages. Right now, I plan to implement a soft blue color persistently in the background using CSS styling. It will have good contrast with the rest of the page aesthetics, and needs to be able to fit both PC and mobile layouts.
+- **React** - This is the frontend. Handles logic for Login, submitting an entry, the timer buzzing down, appending onto the string so that the story is updated in real-time
+- **Service** - The backend for React. It will handle the actual login and entry submission so that the frontend and the backend both work together.
+- **DB/Login** - This will store the player signups and logins, the longest games played as well as who played in them. This website cannot be used without this database authenticating the user's credentials
+- **WebSocket** - Updates the current story so far in real-time.
 
 ## 🚀 AWS deliverable
 
