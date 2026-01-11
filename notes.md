@@ -1,6 +1,9 @@
 # CS 260 Notes
 
-[My startup - Keep Typing and the Story Continues!](Website link pending)
+[My startup - Keep Typing and the Story Continues!](https://keeptalkingandthestorycontinues.click)
+The top-level domain is .click
+The root domain is keeptalkingandthestorycontinues.click
+The domain name correctly handles subdomains.
 
 ## Helpful links
 
@@ -10,12 +13,12 @@
 
 ## AWS
 
-My IP address is: 54.81.96.130
-Launching my AMI I initially put it on a private subnet. Even though it had a public IP address and the security group was right, I wasn't able to connect to it.
+My IP address is: 100.50.162.166
+Faced no problems establishing this part of the deliverable. However, I need to remember that I use Git Bash in order to ssh, etc.
 
 ## Caddy
 
-No problems worked just like it said in the [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
+No problems. I used Git Bash here as well to access my Caddyfile.
 
 ## HTML
 
