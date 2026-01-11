@@ -1,6 +1,7 @@
 # CS 260 Notes
 
 [My startup - Keep Typing and the Story Continues!](https://keeptalkingandthestorycontinues.click)
+
 The top-level domain is .click
 The root domain is keeptalkingandthestorycontinues.click
 The domain name correctly handles subdomains.
