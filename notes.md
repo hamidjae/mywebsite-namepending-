@@ -2,8 +2,8 @@
 
 [My startup - Keep Typing and the Story Continues!](https://keeptalkingandthestorycontinues.click)
 
-The top-level domain is .click
-The root domain is keeptalkingandthestorycontinues.click
+The top-level domain is .click<br>
+The root domain is keeptalkingandthestorycontinues.click<br>
 The domain name correctly handles subdomains.
 
 ## Helpful links
@@ -14,8 +14,7 @@ The domain name correctly handles subdomains.
 
 ## AWS
 
-My IP address is: 100.50.162.166
-
+My IP address is: 100.50.162.166<br>
 Faced no problems establishing this part of the deliverable. However, I need to remember that I use Git Bash in order to ssh, etc.
 
 ## Caddy
