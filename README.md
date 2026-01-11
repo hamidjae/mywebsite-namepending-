@@ -37,7 +37,7 @@ Have you ever wondered who the most quick-witted person is in your friend group?
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Five HTML pages: Login, How to Play, About, the game being played, and the leaderboard. I may cut this down if some pages become redundant, such as folding the How to Play page unto About.
+- **HTML** - Six HTML pages: Login, How to Play, About, the game being played, the page after the game completes that has a Narrate! button, and the leaderboard. I may cut this down if some pages become redundant, such as folding the How to Play page unto About.
 - **CSS** - The aesthetics of the pages. Right now, I plan to implement a soft blue color persistently in the background using CSS styling. It will have good contrast with the rest of the page aesthetics, and needs to be able to fit both PC and mobile layouts.
 - **React** - This is the frontend. Handles logic for Login, submitting an entry, the timer buzzing down, appending onto the string so that the story is updated in real-time
 - **Service** - The backend for React. It will handle the actual login and entry submission so that the frontend and the backend both work together.
