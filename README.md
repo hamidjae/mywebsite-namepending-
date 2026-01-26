@@ -55,7 +55,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [X] **Proper HTML element usage** - Linked everything nec
+- [X] **Proper HTML element usage** - Linked everything necessary
 - [X] **Links** - Properly used hrefs to link one part of the website to another.
 - [ ] **Text** - I did not complete this part of the deliverable.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
