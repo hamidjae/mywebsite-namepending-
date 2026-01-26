@@ -51,6 +51,9 @@ color	Color
 file	Local file
 submit	button to trigger form submission
 
+Otherwise, HTML was quite straightforward. I need to remember to provide alts for any visuals I add.
+Additionally, giving buttons their own IDs is extremely helpful when doing CSS styling.
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
